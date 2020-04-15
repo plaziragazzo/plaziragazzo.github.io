@@ -1,0 +1,51 @@
+ezafejlec {
+  display: flex;
+  height: 50px;
+  background: purple;
+  position: fixed;
+  top: 0;
+  padding: 10px 90px;
+  width: 100%;
+  align-content: center;
+  
+}
+
+a {
+  display: block;
+  height: 30px;
+  width: 100px;
+  background: cyan;
+  margin: 10px;
+  text-align: center;
+    
+}
+
+.longest {
+  width: 150px;
+}
+
+div {
+  display: flex;
+  height: 500px;
+  margin: 80px 100px 10px;
+  
+}
+
+balsav {
+  background: lime;
+  display: flex;
+  flex-grow: 1;
+}
+
+main {
+  background: yellow;
+  display: flex;
+  flex-grow: 3;
+}
+
+ezalablec {
+  display: block;
+  height: 80px;
+  background: lightgrey;
+  margin: 0 100px;
+}

@@ -1,0 +1,23 @@
+main {
+  border: 11px solid #4285f4;
+  width: 300px;
+  margin-bottom: 15px;
+}
+
+p {
+  font-family: 'Gotu', sans-serif;
+  font-size: 40px;
+  color: white;
+  margin: 0;
+  padding: 20px;
+  text-align: center;  
+  font-weight: bold;
+  
+}
+.red{
+  background: #E67676;
+
+}
+.green {
+  background: #A9E6E6;
+}

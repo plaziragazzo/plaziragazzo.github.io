@@ -1,0 +1,31 @@
+html {
+    font-family: 'Gotu', sans-serif;
+    background-color: black;
+    
+}
+p {
+    color: white;
+    text-align: justify;
+}
+
+.press1 {
+    font-weight: bold;
+    font-size: larger;
+    color: red;
+    text-align: initial;
+
+}
+.press2 {
+    font-weight: bold;
+    font-size: smaller;
+    color: orange;
+    text-align: initial;
+}
+
+.link {
+    color: white;
+
+}
+.link:hover {
+    color: red;
+}

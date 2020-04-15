@@ -1,0 +1,23 @@
+body{
+  font-family: 'Gotu', sans-serif;
+}  
+h1{
+  color: orange;
+}
+h2{
+  color: purple;  
+  }
+
+ol{
+  list-style-type: upper-roman;
+  
+}
+.purple{
+  color: purple;
+}
+u {
+  text-decoration: underline;
+}
+p {
+  text-align: justify;
+}
